@@ -1,0 +1,31 @@
+html {
+	background-color: wheat;
+}
+	
+h1 {
+	font-weight: bold;
+	text-align: center;
+	
+}
+.header {
+	display: flex;
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+	margin: 0;
+	margin-left: auto;
+	background-color: #d7eef5;
+}
+.header li{
+	margin: 1em;
+	text-align: center;
+	padding-right: 2em;
+	padding-left: 2em;
+}
+#aboutme {
+	font-family: Arial,Verdana,sans-serif;
+}
+footer {
+	text-align:right;
+	
+}
